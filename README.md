@@ -21,14 +21,17 @@ Installation process, e.g. step by step instructions that I can run the project 
 
 ### Third party material:
 (if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
+None
 
 ### Project state:
-incl. progress in percent
+100%
 
 ### Limitations:
+None
 
 ### Lessons Learned:
 * Switch platform from Standalone to WebGL
 * Build WebGL
+* GitHub Pages, with docs 
 
 Copyright by kkoenig
