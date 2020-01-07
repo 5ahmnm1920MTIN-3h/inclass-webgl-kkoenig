@@ -26,6 +26,9 @@ Installation process, e.g. step by step instructions that I can run the project 
 incl. progress in percent
 
 ### Limitations:
+
 ### Lessons Learned:
+* Switch platform from Standalone to WebGL
+* Build WebGL
 
 Copyright by kkoenig
