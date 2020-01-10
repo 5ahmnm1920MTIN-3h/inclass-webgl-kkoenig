@@ -4,17 +4,14 @@
 WebGL Testing repository and hosting
 
 ### Development platform:
-- Windows 10 1909
+- Windows 10 64 bit
 - Unity Version: 2019.1.14f1
 - Visual Studio Version: Visual Studio Community 2019 16.3.10
 - Scripting Runtime Version: .NET 4.x Equivalent
 - API Compatibility Level: .NET Standard 2.0
 
 ### Target platform:
-WebGL, Mobile, VR Device incl. reference resolution: 960 x 600
-
-### Visuals:
-Screenshots (concept and experience), Video
+WebGL, reference resolution: 960 x 600
 
 ### Necessary setup/execution steps:
 Installation process, e.g. step by step instructions that I can run the project after cloning it
